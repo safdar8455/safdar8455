@@ -2,12 +2,21 @@
 
 <h2 style="color: #44AEFB;" align="center">Software Developer Engineer From Karachi🗾,Pakistan🇵🇰.</h2>
 <h2 style="color: #44AEFB;">Who am I? 😄</h2>
-<p style="text-align: justify; margin: 0 50px; font-size: 17px;">
+<p align='center' style="text-align: justify-center; margin: 0 50px; font-size: 17px;">
     Hey there! I'm Safdar Hussain, an enthusiastic Software Engineering student at Sindhi Maderssatul Islam University Karachi. My passion lies in building remarkable Mobile Apps and captivating Web designs. Currently, my focus is on mastering both Flutter and React, as I believe in the power of cross-platform development and creating stunning user interfaces. With Flutter, I'm working on my final year project, while I have already completed a React Native project. I'm always up for challenging projects that push my boundaries and help me grow as a developer.
 </p>
+
+
+<br/>
 <div align="center">
-    <img src="https://media.giphy.com/media/l378c04F2lQC0iRjS/giphy.gif" alt="GIF" width="300" height="225" />
+
+[Email Me](mailto:safdarse063@gmail.com)
 </div>
+<br/>
+<div align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGI2cXM1YmV3d3dnZm1naHlneWsweXI0eXBlZzh4anVscnN1Z3RjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" alt="GIF" width="600" height="375">
+</div>
+<div align="left">
 <h3 style="color: #44AEFB;">Personal Interests:</h3>
 <ul>
     <li>🚀 Currently exploring the exciting world of Flutter and React development.</li>
@@ -15,10 +24,16 @@
     <li>📫 Reach me at <a href="mailto:safdarse063@gmail.com">safdarse063@gmail.com</a>. Let's connect and collaborate! 📩</li>
     <li>🏳️‍🌈 Pronouns: He/Him. 🙋‍♂️</li>
 </ul>
+</div>
 
 
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
+<div align="center" style="display:block;">
+    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
+</div>
+</br>
+</br>
 <div align="center">
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
@@ -185,7 +200,6 @@
 </div>
 
 <br/>
-<h3></h3>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=safdar8455&show_icons=true&theme=radical">
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safdar8455&layout=compact">
@@ -201,6 +215,3 @@
 <a href="https://fb.com/safdarhussain8455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="safdarhussain8455" height="30" width="40" /></a>
 <a href="https://instagram.com/safdarhussain8455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safdarhussain8455" height="30" width="40" /></a>
 </p>
-
-
-
