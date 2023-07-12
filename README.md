@@ -11,7 +11,7 @@
 <h3 style="color: #44AEFB;">Personal Interests:</h3>
 <ul>
     <li>🚀 Currently exploring the exciting world of Flutter and React development.</li>
-    <li>💬 Feel free to ask me anything about Python Development, Front-End, Flutter, or React! I'm also happy to discuss our favorite animes and manga! 😄</li>
+    <li>💬 Feel free to ask me anything about Front-End, Back-End, Flutter, or React!</li>
     <li>📫 Reach me at <a href="mailto:safdarse063@gmail.com">safdarse063@gmail.com</a>. Let's connect and collaborate! 📩</li>
     <li>🏳️‍🌈 Pronouns: He/Him. 🙋‍♂️</li>
 </ul>
