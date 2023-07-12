@@ -1,17 +1,20 @@
 <h1 style="color: #44AEFB;" align='center'> 👨🏻‍💻 Hi there, I'm Safdar Hussain! 👋 </h1>
 
 <h2 style="color: #44AEFB;" align="center">Software Developer Engineer From Karachi🗾,Pakistan🇵🇰.</h2>
-<h2 style="color: #44AEFB;" > Who am I? 😄 </h2>
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a passionate, athletic, full stack software developer and occasional content creator. My aim is to make people's lives better & easier by developing applications and websites. I also love to teach coding as I believe that programming can empower people to achieve their full potential and live a better life. This is why I occasionally post coding and tech videos. Aside from that, I am a very athletic person as I regularly practice Olympic weightlifting and Powerlifting. Hence, I also occasionally post some sports content.
-<br>
-<br>
+<h2 style="color: #44AEFB;">Who am I? 😄</h2>
+<p style="text-align: justify; margin: 0 50px; font-size: 17px;">
+    Hey there! I'm Safdar Hussain, an enthusiastic Software Engineering student at Sindhi Maderssatul Islam University Karachi. My passion lies in building remarkable Mobile Apps and captivating Web designs. Currently, my focus is on mastering both Flutter and React, as I believe in the power of cross-platform development and creating stunning user interfaces. With Flutter, I'm working on my final year project, while I have already completed a React Native project. I'm always up for challenging projects that push my boundaries and help me grow as a developer.
+</p>
 <div align="center">
-
-[Email Me](mailto:safdarse063@gmail.com)
+    <img src="https://media.giphy.com/media/l378c04F2lQC0iRjS/giphy.gif" alt="GIF" width="300" height="225" />
 </div>
-</p>    
-<br>
+<h3 style="color: #44AEFB;">Personal Interests:</h3>
+<ul>
+    <li>🚀 Currently exploring the exciting world of Flutter and React development.</li>
+    <li>💬 Feel free to ask me anything about Python Development, Front-End, Flutter, or React! I'm also happy to discuss our favorite animes and manga! 😄</li>
+    <li>📫 Reach me at <a href="mailto:safdarse063@gmail.com">safdarse063@gmail.com</a>. Let's connect and collaborate! 📩</li>
+    <li>🏳️‍🌈 Pronouns: He/Him. 🙋‍♂️</li>
+</ul>
 
 
 
