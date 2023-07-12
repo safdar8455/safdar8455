@@ -202,7 +202,15 @@
 <br/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=safdar8455&show_icons=true&theme=radical">
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safdar8455&layout=compact">
+<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=safdar8455&&theme=tokyonight" alt="safdar8455" />
+</br>
+</br>
+</br>
+<div align="center" >
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safdar8455&layout=compact">
+</div>
+</br>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safdar8455&label=Profile%20views&color=0e75b6&style=flat" alt="safdar8455" /> </p>
